@@ -30,7 +30,7 @@ export default function TermsOfService() {
 
             <h2>5. Product Updates & Support</h2>
             <p>
-                Your purchase includes lifetime access to the current version of the product. Future updates may be provided at no additional cost. Technical support is available via email at <strong>rabahmusayid@gmail.com</strong>.
+                Your purchase includes lifetime access to the current version of the product. Future updates may be provided at no additional cost. Technical support is available via email at <strong>mohammedalkaff190@gmail.com</strong>.
             </p>
 
             <h2>6. Intellectual Property</h2>
@@ -51,7 +51,7 @@ export default function TermsOfService() {
             <h2>9. Contact</h2>
             <p>
                 For any inquiries, support requests, or legal questions, please contact us at:<br />
-                <strong>Email:</strong> rabahmusayid@gmail.com
+                <strong>Email:</strong> mohammedalkaff190@gmail.com
             </p>
         </main>
     );
