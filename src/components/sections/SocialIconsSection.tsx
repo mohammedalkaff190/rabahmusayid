@@ -8,12 +8,12 @@ import {
 const icons = [
     {
         icon: <FaWhatsapp />,
-        href: 'https://wa.me/966509324662',
+        href: 'https://wa.me/967770008660',
         bg: 'bg-green-500'
     },
     {
         icon: <FaTelegramPlane />,
-        href: 'https://web.telegram.org/k/#@Toptoall',
+        href: 'https://web.telegram.org/k/#@Mamet202',
         bg: 'bg-blue-400'
     },
     {
@@ -23,12 +23,12 @@ const icons = [
     },
     {
         icon: <FaInstagram />,
-        href: 'https://www.instagram.com/futer7788?igsh=ZGUzMzM3NWJiOQ==',
+        href: 'https://www.instagram.com/designbytesno1/profilecard/?igsh=MTZ3OWwzajl1enlpMg%3D%3D==',
         bg: 'bg-gradient-to-tr from-pink-500 via-red-500 to-yellow-500'
     },
     {
         icon: <FaFacebookF />,
-        href: 'https://www.facebook.com/profile.php?id=61576701425912',
+        href: 'https://www.facebook.com',
         bg: 'bg-blue-700'
     }
 ];

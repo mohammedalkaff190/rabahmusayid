@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: ImageTextSection
-    name: Rabah Musayid 
+    name:  Mohammed Aidrous 
     headline: 10 Years of Experience in Designing Shopify Stores That Drive Real Results
     text: >
       I’m Rabah Musayid , a specialist in designing and developing high-performance Shopify stores for over 10 years.  
