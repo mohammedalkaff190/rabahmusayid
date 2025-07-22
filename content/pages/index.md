@@ -12,17 +12,7 @@ backgroundImage:
 
 
 sections:
-  - type: FeatureIconsSection
-  - type: TestimonialsSlider
-
-  - type: StoreExamplesSection      
-  - type: ShowcaseScrollerSection
-  - type: VideoShowcaseSection
-  - type: TestimonialSwiperSection
-
-
-  - type: BeforeAfterSection
-  - type: FaqAccordionSection
+  - type: blog
 
   
 
