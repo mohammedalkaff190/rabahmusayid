@@ -19,7 +19,7 @@ export default function FormBlock(props) {
         const form = formRef.current;
         const formData = new FormData(form);
 
-        const res = await fetch('https://formspree.io/f/xpwrlgon', {
+        const res = await fetch('https://formspree.io/f/xnnvvglk', {
             method: 'POST',
             headers: {
                 Accept: 'application/json',

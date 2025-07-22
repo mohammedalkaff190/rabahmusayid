@@ -39,7 +39,7 @@
                 "type": "Social",
                 "altText": "Facebook",
                 "label": "Facebook",
-                "url": "https://www.facebook.com",
+                "url": "https://www.facebook.com/profile.php?id=61576701425912",
                 "icon": "facebook"
             },
             {
@@ -87,6 +87,12 @@
                 "type": "Link",
                 "label": "Refund Policy",
                 "url": "/refund",
+                "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "Terms of service",
+                "url": "/terms-and-conditions",
                 "altText": "Netlify templates"
             }
         ],
