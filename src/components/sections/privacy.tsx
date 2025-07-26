@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
 
             <h2>1. Overview</h2>
             <p>
-                Market Lightning LLC is committed to protecting your privacy. This Privacy Policy outlines how your personal information is collected, used, and protected when you purchase our digital products such as Shopify Liquid code snippets.
+                Mamet Dynamics llc  is 1 committed to protecting your privacy. This Privacy Policy outlines how your personal information is collected, used, and protected when you purchase our digital products such as Shopify Liquid code snippets.
             </p>
 
 
