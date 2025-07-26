@@ -8,8 +8,9 @@ export default function PrivacyPolicy() {
 
             <h2>1. Overview</h2>
             <p>
-                We are committed to protecting your privacy. This Privacy Policy outlines how your personal information is collected, used, and protected when you purchase our digital products such as Shopify Liquid code snippets.
+                Market Lightning LLC is committed to protecting your privacy. This Privacy Policy outlines how your personal information is collected, used, and protected when you purchase our digital products such as Shopify Liquid code snippets.
             </p>
+
 
             <h2>2. What We Collect</h2>
             <p>We only collect minimal information required to complete your order, such as:</p>
